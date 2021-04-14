@@ -1,0 +1,6 @@
+{
+  "error": {
+    "code": 404,
+    "message": "Benutzer ist bzgl. des Mandanten unbekannt (2)"
+  }
+}
